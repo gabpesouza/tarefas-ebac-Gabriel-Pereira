@@ -1,0 +1,18 @@
+Início 
+ Abrir os olhos
+  - se for sexta ou sábado e antes das 8 horas
+     .atrasar o despertador em 1 hora
+     .repetir o passo anterior ate acabar a preguica e levantar
+  - se não 
+    .desligar o despertador
+    .levantar da cama
+ Ir até o banheiro
+ Lavar o rosto
+ Escovar os dentes
+ Tomar um café
+Fim.
+
+	
+	 
+	
+    
